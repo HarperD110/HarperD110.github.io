@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Goldman:wght@700&family=Kanit&display=swap');
+
+.btn-neon {
+    font-family: 'Alfa Slab One', cursive;
+}
+.fin{
+    font-family: 'Alfa Slab One', cursive;
+font-family: 'Josefin Sans', sans-serif;
+}
+.insisq{
+    padding: 30px 0% ;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Goldman', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-size:30px;
+}
+.pdei{
+    padding: 30px 0% ;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Goldman', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-size:30px;
+}
+.aling{
+    padding: 30px 0% ;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Goldman', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-size:30px;
+}
+.areProg{
+   
+    padding: 15px;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Goldman', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-size:50px;
+}
+.p_web{
+   
+    padding: 15px;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Goldman', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-size:50px;
+}
+.hacksis{
+    padding: 30px 0% ;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Goldman', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-size:50px;
+}
